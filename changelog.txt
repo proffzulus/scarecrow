@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-12-20
+  Major Features:
+    - Initial release of Scarecrow mod
+    - Stationary wooden box with 4x4 equipment grid
+    - Grid-snapped placement like buildings
+    - Full inserter compatibility for item input/output
+    - Uses standard building collision mask - prevents blueprint overlap
+    - No fuel requirements - operates with void energy source
+    - Cannot be entered as vehicle - functions purely as stationary storage with equipment grid
+  Info:
+    - Crafted from 1 wooden chest + 5 wood
+    - 16 inventory slots (same as wooden chest)
+    - Equipment grid supports armor category equipment
+    - Appears and behaves like a building, not a vehicle

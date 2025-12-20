@@ -1,0 +1,13 @@
+{
+	"name": "scarecrow",
+	"version": "1.0.0",
+	"title": "The Scarecrow",
+	"author": "Proffzulus",
+	"contact": "",
+	"homepage": "https://github.com/proffzulus/agricultural-roboport",
+	"description": "Add simple wood box with equipment grid",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0"
+	]
+}
