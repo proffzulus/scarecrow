@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025-12-20
+  Bugfixes:
+    - Added missing locale translations for all supported languages (en, de, es-ES, fr, ja, ru, zh-CN)
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-12-20
   Major Features:
