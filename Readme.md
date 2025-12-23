@@ -4,7 +4,7 @@ A simple wooden box with an equipment grid - because sometimes you need to put e
 
 ## Features
 
-- **Equipment Grid Storage**: 4x4 equipment grid accepting armor-category equipment (scales with quality up to 13x13)
+- **Equipment Grid Storage**: 4x4 equipment grid accepting armor-category equipment (scales with quality up to 13x13). Burner generators auto-refill fuel from inventory.
 - **Stationary Container**: 16 inventory slots (same as wooden chest)
 - **Acts as decoy**: Considered military target. Why not fool biters, huh?
 

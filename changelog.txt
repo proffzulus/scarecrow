@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2025-12-23
+  Features:
+    - Fuel is now automatically transferred from scarecrow inventory to burner equipment
+  
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2025-12-20
   Bugfixes:
